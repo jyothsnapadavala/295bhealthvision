@@ -1,0 +1,11 @@
+insert into patients values (1, 'Mike', 'Henderson', '1600 millers dr', '', 'san jose', 'ca', '94089', 'Active');
+insert into patients values (2, 'Paula', 'Abdul', '24089 sandy creek dr', '', 'fremont', 'ca', '96978', 'Active');
+insert into patients values (3, 'Rachael', 'Henderson', '1600 millers dr', '', 'san jose', 'ca', '94089', 'Active');
+insert into patients values (4, 'Mini', 'Abdul', '24089 sandy creek dr', '', 'fremont', 'ca', '96978', 'Active');
+insert into patients values (5, 'Sandy', 'Sceffer', '3456 state dr', '', 'torrence', 'nv', '87089', 'Active');
+insert into patients values (6, 'Poly', 'Sceffer', '3456 state dr', '', 'torrence', 'nv', '87089', 'Active');
+
+
+insert into doctors values (1, 'Mill', 'Robinson', 'obgyn', 'residency', 'board certified', 'bla bla', '700 millers dr', '', 'san jose', 'ca', '95133', 'Active');
+insert into doctors values (2, 'Pondy', 'Abby', 'ped', 'residency', 'board certified', 'bla bla', '24089 sandy creek dr', '', 'fremont', 'ca', '96978', 'Active');
+insert into doctors values (3, 'Rony', 'Hill', 'generalmed', 'residency', 'board certified', 'bla bla', '1600 millers dr', '', 'san jose', 'ca', '94089', 'Active');

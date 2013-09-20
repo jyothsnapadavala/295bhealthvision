@@ -1,0 +1,14 @@
+1. Cypress Data Location and process of getting the data 
+	http://projectcypress.org/test_data.html
+
+2. Request license from Unified Medical Language System (UMLS)
+	https://uts.nlm.nih.gov//uts.html#
+
+3. Data set from WHO  
+	http://apps.who.int/gho/data/node.main
+
+4. In-memory cache - 
+	a. Terracotta & b. Amazon Elastic cache
+Please see following Terracotta video - (Click Why Terracotta?) http://www.softwareag.com/corporate/products/bigdata/default.asp 
+or http://www.softwareag.com/corporate/rc/rc_perma.asp?id=tcm:16-91113
+

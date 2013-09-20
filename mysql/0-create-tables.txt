@@ -1,0 +1,2 @@
+source C:\sjsu\295A\TEST\mysql\patients.sql
+source C:\sjsu\295A\TEST\mysql\doctors.sql

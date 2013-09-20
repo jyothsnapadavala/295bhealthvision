@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://sjs-home:8080/hv-war/HealthVision?wsdl" uri="wsdl/sjs-home_8080/hv-war/HealthVision.wsdl"/>
+    <system systemId="http://sjs-home:8080/hv-war/HealthVision?xsd=1" uri="wsdl/sjs-home_8080/hv-war/HealthVision.xsd_1.xsd"/>
+</catalog>
